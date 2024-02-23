@@ -1,7 +1,3 @@
-Certainly! Below is how you can include the provided text in your README:
-
----
-
 ## Adding Backwards Numbers
 
 Imagine you have two numbers written on pieces of paper. But instead of being written in the usual way, they are written backward. So, for example, instead of writing 342, you write 2, then 4, and then 3. Let's call these numbers "backwards numbers."
