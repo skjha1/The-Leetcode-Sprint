@@ -8,6 +8,7 @@
 - [Video Explained](https://youtu.be/U_BZKRwOI50)
 - [Blog](https://github.com/skjha1/The-Leetcode-Sprint/blob/main/Day%201/two_sum.md)
 - [Code](https://github.com/skjha1/The-Leetcode-Sprint/blob/main/Day%201/TWO_SUM/two_sum.java)
+- [Unit test](https://github.com/skjha1/The-Leetcode-Sprint/blob/main/Day%201/TWO_SUM/UnitTest_two_sum.java)
 
 ### Day 2 - Add Two Numbers
 
