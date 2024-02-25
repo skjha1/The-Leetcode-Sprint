@@ -14,6 +14,9 @@
 
 **Learn about the real-world context and solution for the Add Two Numbers**
 
+- [Video Explained](https://youtu.be/ZCXGW_PB2sM)
 - [Explanation](https://github.com/skjha1/The-Leetcode-Sprint/blob/main/Day%202/Add_Two_Numbers.md)
 - [Code](https://github.com/skjha1/The-Leetcode-Sprint/blob/main/Day%202/Add_two_number.java)
+- [Unit test](https://github.com/skjha1/The-Leetcode-Sprint/blob/main/Day%202/AddTwoNumberTest.java)
+
 
