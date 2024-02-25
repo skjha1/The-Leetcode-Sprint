@@ -23,6 +23,11 @@
 
 ### Day 3 - Longest Substring Without Repeating Characters
 
+- [Video Explained](#)
+- [Blog](https://github.com/skjha1/The-Leetcode-Sprint/blob/main/Day%203/Longest_substring_without_repeating_characters.md)
+- [Code](#)
+- [Unit test](#)
+
 
 ### Day 4 - Merge Two Sorted Lists
 
