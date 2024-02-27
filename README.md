@@ -1,6 +1,5 @@
 # The-Leetcode-Sprint
-100 Days to Coding Confidence
-
+100 Days to Coding Confidence! 
 
 ### Day 1 - Two Sum Problem
 
