@@ -22,10 +22,10 @@
 
 ### Day 3 - Longest Substring Without Repeating Characters
 
-- [Video Explained](#)
+- [Video Explained](https://youtu.be/sTUyMVlaOro)
 - [Blog](https://github.com/skjha1/The-Leetcode-Sprint/blob/main/Day%203/Longest_substring_without_repeating_characters.md)
-- [Code](#)
-- [Unit test](#)
+- [Code](https://github.com/skjha1/The-Leetcode-Sprint/blob/main/Day%203/Longest%20Substring%20Without%20Repeating%20Characters.java)
+- [Unit test](https://github.com/skjha1/The-Leetcode-Sprint/blob/main/Day%203/LongestSubstringWithoutRepeatingTest.java)
 
 
 ### Day 4 - Merge Two Sorted Lists
