@@ -1,7 +1,3 @@
-Certainly! Here's a layman-friendly blog post explaining the "Longest Substring Without Repeating Characters" problem:
-
----
-
 **Title: Exploring the Longest Substring Without Repeating Characters**
 
 Do you know what a substring is? Imagine you have a string, which is just a sequence of characters like letters or numbers. Now, a substring is a smaller part of that string, made up of consecutive characters. So, if you have the string "hello", some of its substrings would be "h", "he", "hel", "ell", "llo", and so on.
