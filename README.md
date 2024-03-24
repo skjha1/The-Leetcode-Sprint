@@ -4,7 +4,7 @@
 I might not always stick to a strict daily schedule due to other tasks, but you can expect new videos within about a week.
 
 **Pursose for this Repo:**
-## Finding code for a problem online is easy. My goal is to show you visually how the code functions and how it can solve problems in the background using unit tests. Share this with your friend who's nervous about data structures and problem-solving.
+### Finding code for a problem online is easy. These Video explaination is in different way my goal is to show you visually how the code functions and how it can solve problems in the background using unit tests. Share this with your friend who's nervous about data structures and problem-solving.
 
 |  Day  | Problem         |  Video Explained |  Code               | Unit test           |    Blog      | Handwritten Notes       |  Time complexity    | Space complexity|
 |-------|---------------- | ---------------  |   --------------    | ---------------     | ----------------          | --------------- | --------------- |  --------------- | 
