@@ -3,7 +3,7 @@
 100 Days to Coding Confidence! 
 I might not always stick to a strict daily schedule due to other tasks, but you can expect new videos within about a week.
 
-**Pursose for this Repo:**
+**Purpose for this Repo:**
 ### Finding code for a problem online is easy. These videos explain things in a unique way, aiming to visually demonstrate how the code works and solves problems behind the scenes with tests. Once you grasp it, explaining problems will be a piece of cake. Share this with your friend who's nervous about data structures and problem-solving. Cheers!
 
 |  Day  | Problem         |  Video Explained |  Code               | Unit test           |    Blog      | Handwritten Notes       |  Time complexity    | Space complexity|
