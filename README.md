@@ -3,6 +3,11 @@
 100 Days to Coding Confidence! 
 I might not always stick to a strict daily schedule due to other tasks, but you can expect new videos within about a week.
 
+
+## Before getting into this repo lets understand the Importance of Problem solving and DSA in coming 10 to 20 years click below video to understand more.
+- [VIDEO](https://youtu.be/ZnjhuIuKHBA)
+
+
 **Purpose for this Repo:**
 ### Finding code for a problem online is easy. These videos explain things in a unique way, aiming to visually demonstrate how the code works and solves problems behind the scenes with tests. Once you grasp it, explaining problems will be a piece of cake. Share this with your friend who's nervous about data structures and problem-solving. Cheers!
 
