@@ -6,6 +6,7 @@ I might not always stick to a strict daily schedule due to other tasks, but you 
 
 ## Before getting into this repo lets understand the Importance of Problem solving and DSA in coming 10 to 20 years click below video to understand more.
 - [VIDEO](https://youtu.be/ZnjhuIuKHBA)
+### Let's connect on discord for Technical and DSA related Discussion: [DisCord](https://discord.gg/TsRKzEG9)
 
 
 **Purpose for this Repo:**
